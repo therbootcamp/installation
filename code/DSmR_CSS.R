@@ -93,17 +93,17 @@ Bootcamp_package_installation <- function() {
   
   if(length(critical_not_installed) > 0 | length(optional_not_installed) > 0) {
     
-    message("Bericht:")
+    message("*** Bericht ***")
     
     warning(paste("Die kritischen Pakete [", 
                   paste(critical_not_installed, sep = ", "), 
                   "] und die optionalen Pakete [", 
                   paste(optional_not_installed, sep = ", "), 
-                  "] konnten nicht installiert werden. Bitte kopieren Sie diesen Text mit dem gesamten Bericht und senden ihn uns an therbootcamp@gmail.com damit wir helfen können.")) 
+                  "] konnten nicht installiert werden. Bitte kopieren Sie diesen Text mit dem gesamten Installationsverlauf und senden Sie uns diesen an therbootcamp@gmail.com damit wir helfen können.")) 
   } else {
     message("*** Bericht ***")
     
-    message("Alle Pakete wurden ohne Probleme installiert.")
+    message("Alle Pakete wurden erfolgreich installiert.")
     
   }
   

@@ -33,7 +33,7 @@ Bootcamp_package_installation <- function() {
   
   
   message("Willkommen bei The R Bootcamp!")
-  message("Wir werden einige Pakete für Sie installieren, dies könnte ein paar Minuten dauern...")
+  message("Wir werden einige Pakete für dich installieren, dies könnte ein paar Minuten dauern...")
   
   critical_not_installed <- c()
   optional_not_installed <- c()

@@ -1,4 +1,3 @@
-# 7 May 2019
 # http://therbootcamp.github.io
 
 # Script to install any packages necessary for the BaselRBootcamp

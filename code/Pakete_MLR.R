@@ -73,6 +73,13 @@ Bootcamp_package_installation <- function() {
     #  "ggthemes", 
     # "ggpubr",
     
+    # Unsupervised --------------
+    "fastcluster",
+    "cstab",
+    "dbscan",
+    "psych",
+    "mclust",
+    
     # Datasets --------------
     "speff2trial",
     "ISLR",

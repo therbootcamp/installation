@@ -23,6 +23,9 @@ Bootcamp_package_installation <- function() {
     "moments",
     "quantreg",
     "Rfit",
+    "MASS",
+    "pscl",
+    "mosaic",
     
     # New Stats
     "rstanarm",

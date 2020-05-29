@@ -29,8 +29,7 @@ Bootcamp_package_installation <- function() {
     # markdown
     "knitr",
     "stargazer",
-    "kntirExtra",
-    "kable"
+    "kableExtra"
     
   )
   

@@ -23,8 +23,14 @@ Bootcamp_package_installation <- function() {
     "plotly",
     "leaflet",
     "viridis",
-    "htmltools"
+    "htmltools",
     
+    
+    # markdown
+    "knitr",
+    "stargazer",
+    "kntirExtra",
+    "kable"
     
   )
   

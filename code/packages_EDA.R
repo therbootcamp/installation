@@ -28,7 +28,8 @@ Bootcamp_package_installation <- function() {
     "ggmap",
     "plotly",
     "viridis",
-    "ggthemes"
+    "ggthemes",
+    "sf"
     )
   
   

@@ -1,4 +1,4 @@
-# 3 Mai 2020
+# April 2021
 # http://therbootcamp.github.io
 
 # Script to install any packages necessary for the BaselRBootcamp

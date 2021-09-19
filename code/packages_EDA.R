@@ -1,4 +1,4 @@
-# 16. März 2021
+# 24. September 2021
 # http://therbootcamp.github.io
 
 # Skript um alle nötigen Pakete zu installieren

@@ -1,4 +1,4 @@
-# 28. April 2022
+# 2. Dezember 2022
 # http://therbootcamp.github.io
 
 # Skript um alle nötigen Pakete zu installieren
